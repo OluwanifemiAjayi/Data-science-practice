@@ -1,1 +1,1 @@
-SELECT name FROM customer WHERE id = 1006
+SELECT name FROM customer WHERE serial_no = 002
