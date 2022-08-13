@@ -1,0 +1,1 @@
+SELECT name FROM customer WHERE id = 1006
